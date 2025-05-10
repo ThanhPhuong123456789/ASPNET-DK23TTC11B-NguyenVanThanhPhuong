@@ -45,3 +45,8 @@ https://localhost:44300/Admin/Login.  với trang này được cấp cho 1 tài
 ### Trang dành cho client
 * Mặc định trang dành cho cient là: https://localhost:PORT/
 * Người dùng có thể tạo 1 tài khoản và bắt đầu sử dụng web bình thường
+
+### Liên hệ cho nhóm tác giả:
+Nguyễn Văn Thanh Phương
+Số điện thoại: 0359995977
+Email: phuongnvt100101@sv-onuni.edu.vn hoặc thanhphuongsw123@gmail.com
